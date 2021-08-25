@@ -12,5 +12,6 @@ ul {
 }
 
 li {
-  float: end;
+  margin: 0;
+  padding: 0;
 }
